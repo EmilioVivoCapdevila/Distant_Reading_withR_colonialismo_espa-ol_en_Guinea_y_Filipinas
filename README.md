@@ -1,0 +1,1 @@
+# Distant_Reading_withR_colonialismo_espa-ol_en_Guinea_y_Filipinas
