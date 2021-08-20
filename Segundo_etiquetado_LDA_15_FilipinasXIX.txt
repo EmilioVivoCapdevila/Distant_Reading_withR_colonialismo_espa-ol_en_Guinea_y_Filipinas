@@ -1,0 +1,10 @@
+Segundo etiquetado: temas comunes (tropos) a los diferentes LDA topics
+Tropo 1: espacio doméstico colonial (y literatura costumbrista) (topics 1)
+Tropo 2: temas, historias y documentos de la conquista (recuperados en el XIX, en línea con la construcción de la leyenda blanca del pasado imperial español por el Estado-nación liberal) (topics 2, 4, 6, 7, 11, 12, 15).
+Tropo 3: naturaleza colonial y paisajización del indio (topic 3).
+Tropo 4: navegación (topics 2, 4
+Tropo 5: continuidad entre el "indio" de la conquista y el filipino (bien vía la recuperación de textos, bien por aparecer así en textos el XIX, como los de Retana o Pacita) (topics 1, 3, 6, 7, 11, 14, 15)
+Tropo 6: Centralidad de los frailes en la política colonial (y la catolización/hispanización del archipiélago) (topics 1, 9, 10, 13, 14).
+Tropo 7: Presencia militar en Filipinas, ejército como garante del orden frailocrático y campañas de Mindanao-Joló (topics 5, 10).
+Tropo 8: españolidad del archipiélago (topics 1, 12, 14).
+Tropo 9: Monarquía (tributo, religión y España) (topics 12, 13).
