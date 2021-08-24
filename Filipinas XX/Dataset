@@ -1,0 +1,3 @@
+Este directorio contiene todos los datos necesarios para reproducir los resultados del LDA del corpus de literatura española sobre Filipinas escrita durante el franquismo (1039-1960).
+Es un corpus balanceado, pero oportunísitco (tiene pocas obras, pero dividas en géneros relevantes comunes a los corpus franquistas sobre Guinea y Filipinas: géneros específicos, novela de viajes, ensayos, novela misional, biografías de "conquistadores".
+He incluido el dataset, todos los plots en formato de alta resolución, los resultados del LDA en .txt, y, además, los documentos con las notas del etiquetado cualitativo.
