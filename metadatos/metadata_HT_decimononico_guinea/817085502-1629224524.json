@@ -1,0 +1,156 @@
+{
+  "id": "https://babel.hathitrust.org/cgi/mb?a=listis;c=",
+  "type": "http://purl.org/dc/dcmitype/Collection",
+  "description": "Decimonónico Guinea 1850-1899 15.4.21 sin varios repetidos (Apuntes , de J. Navarro, antes 3 veces, ahora una; y Breves Apuntes, de Martínez Sanz, antes 2 veces y ahora 1), o Colección de apuntes preliminares sobre la lengua benga (en HT, no en Google).",
+  "created": "EMILIO VIVO CAPDEVILA",
+  "extent": 13,
+  "formats": "text/txt",
+  "publisher": {"id":"https://www.hathitrust.org"},
+  "title": "Decimonónico Guinea 1850-1899 17.8.21",
+  "visibility": "publish",
+  "gathers": [
+    {
+      "title": "Á las islas Marianas ó al golfo de Guinea? Memoria laureada con el primer accésit por la Real academia de ciencias morales y políticas en el concurso ordinario de 1875, sobre si convendria establecer en las islas del golfo de Guinea ó en las Marianas unas colonias penitenciarias como las inglesas de Botany-Bay Por D. Pedro Armengol y Cornet ",
+      "author": "Armengol y Cornet, Pedro.",
+      "date": "1878-00-00",
+      "rights": "pd",
+      "oclc": ["8957971"],
+      "lccn": ["11003334"],
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/100350940",
+      "htitem_id": "hvd.32044061947982"
+    },
+    {
+      "title": "Africa. Islas de Fernando Poo, Corisco, y Annobon por don Jose Muñoz Gaviria, viz-conde de San Javier ",
+      "author": "Fabraquer, Jose Muñoz y Gaviria, conde de.",
+      "date": "1871-00-00",
+      "rights": "pd",
+      "oclc": ["18452464"],
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/100881836",
+      "htitem_id": "msu.31293017737978"
+    },
+    {
+      "title": "Apuntes sobre el estado de la costa occidental de Africa y principalmente de las posesiones españoles en el Golfo de Guinea por Joaquín J. Navarro ",
+      "author": "Navarro, Joaquín J.",
+      "date": "1859-00-00",
+      "rights": "pd",
+      "oclc": ["13977977"],
+      "lccn": ["83189627"],
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/011615626",
+      "htitem_id": "hvd.32044102831385"
+    },
+    {
+      "title": "Aventuras de un piloto en el golfo de Guinea. [Pt. i.] ",
+      "author": "Donacuige.",
+      "date": "1886-00-00",
+      "rights": "pd",
+      "oclc": ["235829118"],
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/100561532",
+      "htitem_id": "hvd.hxdt7k"
+    },
+    {
+      "title": "Breves apuntes sobre la isla de Fernando Póo en el Golfo de Guinea escríbelos por modo de introduccion á la historia de esta isla y para conocimiento de los que vayan á ella, Miguel Martinez y Sanz ",
+      "author": "Martínez y Sanz, Miguel.",
+      "date": "1859-00-00",
+      "rights": "pd",
+      "oclc": null,
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/009348958",
+      "htitem_id": "ucm.5324331611"
+    },
+    {
+      "title": "Los confinados á Fernando Póo é impresiones de un viage á Guinea Por Francisco Javier Balmaseda ",
+      "author": "Balmaseda, Francisco Javier, 1833-1907.",
+      "date": "1869-00-00",
+      "rights": "pd",
+      "oclc": ["9300154"],
+      "lccn": ["02002370"],
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/011604919",
+      "htitem_id": "hvd.32044080385370"
+    },
+    {
+      "title": "Cuestiones palpitantes de política, derecho y administración; discursos por Rafael M. de Labra ",
+      "author": "Labra, Rafael M. de 1841-1918.",
+      "date": "1897-00-00",
+      "rights": "pdus",
+      "oclc": ["21007887"],
+      "lccn": ["11016539"],
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/100363386",
+      "htitem_id": "hvd.32044080153323"
+    },
+    {
+      "title": "El guante gris; viaje imaginario á las costas de Guinea ",
+      "author": "Colmenares, Aureliano.",
+      "date": "1877-00-00",
+      "rights": "pd",
+      "oclc": ["82857045"],
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/100358775",
+      "htitem_id": "hvd.32044080201999"
+    },
+    {
+      "title": "Memoria de las misiones de Fernando Póo y sus dependencias. Escrita por el Rdo. P. Procurador de los Misioneros Hijos del Inmaculado Corazón de María ",
+      "author": "",
+      "date": "1890-00-00",
+      "rights": "pd",
+      "oclc": ["379556643"],
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/009959805",
+      "htitem_id": "uc1.$b761614"
+    },
+    {
+      "title": "Nuevos aranceles judiciales para lo criminal en las Islas de Cuba, Puerto Rico, Filipinas y posesiones del Golfo de Guinea; anotados con las disposiciones aclaratorias y complementarias por la redacción de la Revista de los tribunales ",
+      "author": "Spain.",
+      "date": "1894-00-00",
+      "rights": "pd",
+      "oclc": ["80921581"],
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/100359012",
+      "htitem_id": "hvd.32044061568598"
+    },
+    {
+      "title": "Observaciones al llamado Opúsculo sobre la colonización de Fernando Póo publicado por Adolfo Guillemar de Aragon ",
+      "author": "Usera y Alarcon, Gerónimo M.",
+      "date": "1852-00-00",
+      "rights": "pd",
+      "oclc": ["83023492"],
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/011626357",
+      "htitem_id": "hvd.32044088675889"
+    },
+    {
+      "title": "Opúsculo sobre la colonizacion de Fernando Póo y revista de los principales establecimientos europeos en la costa occidental de Africa publicado de Real órden por Adolfo Guillemar de Aragon ",
+      "author": "Guillemar de Aragon, Adolfo.",
+      "date": "1852-00-00",
+      "rights": "pd",
+      "oclc": ["25942270"],
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/012326474",
+      "htitem_id": "ien.35556000462788"
+    },
+    {
+      "title": "Segunda memoria de las misiones de Fernando Póo y sus dependencias ",
+      "author": "Coll, Armengol, b. 1859.",
+      "date": "1899-00-00",
+      "rights": "pdus",
+      "oclc": ["10498875"],
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/007708941",
+      "htitem_id": "yale.39002054591780"
+    }
+  ]
+}
