@@ -1,1 +1,2 @@
 Este repositorio contiene el proyecto y los scripts necesarios para reproducir los resultados discutidos en el artículo. 
+También se incluyen MisVacías.txt con la lista de stopwords (el código también remite a la lista en Github de José Manuel Fradejas).
