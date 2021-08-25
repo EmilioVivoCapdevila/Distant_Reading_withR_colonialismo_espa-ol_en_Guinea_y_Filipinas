@@ -1,0 +1,10 @@
+Segundo etiquetado: temas comunes (tropos) a los diferentes LDA topics
+Tropo 1: el ejército en Filipinas, especialmente como símbolo de España y la evangelizacíón (Sitio de Baler y campañas de Mindanao) (topics 1, 11).
+Tropo 2: Filipinas país hispánico y apología del legado español a Filipinas (especialmente la religión católica y el castellano, simbolizadas por la conquista por Legazpi) (topics 2, 3, 10, 13, 15).
+Tropo 3: Relación entre España y Filipinas tras la colonia (influenci de Estados Unidos (tpic 4, 
+Tropo 4: Viaje-Itineario e importancia del trayecto Manila-Barcelona (topics 5, 9).
+Tropo 5: Medicina, lepra (topics 6, 8).
+Tropo 6: Legazpi (topics 2, 7, 10).
+Tropo 7: Centralidad de Manila (topics 9).
+Tropo 8: Religón católica (asociada a España y la familia) y evangelización de Filipinas (especialmente la de los "moros" de Mindanao, la última en producirse, pero también la de los "indios" del XVI, lo que quizás sugiere esta continuidad de cierta imagen del colonizado ya no entre el XIX y el XX, sino incluso entre Filipinas y Guinea durante el franquismo en forma de conjunto indiferente e indistinguible, objetivado) (topics 2, 3, 4, 5, 6, 7, 8, 10, 12, 13).
+Tropo 9: Luis Pérez Samanillo, figura del padre de Antonio Pérez de Olaguer (protagonista de Mi padre un hombre de bien, y personaje de sus demás obras) (topics 8, 14).
