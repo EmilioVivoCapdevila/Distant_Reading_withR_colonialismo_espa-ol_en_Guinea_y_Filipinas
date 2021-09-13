@@ -1,0 +1,7 @@
+Segundo etiquetado: temas comunes (tropos) a los diferentes LDA topics
+Tropo 1: Colonización penal (vía deportaciones de nacionalistas cubanos) (topics 1, 7, 8).
+Tropo 2: Dependencia administrativa y financiera de Cuba (topics 3, 4, 6, 8).
+Tropo 3: Problema de la influencia británica (topics 2, 15).
+Tropo 4: Bases de la colonización de España en África (Centralidad de Fernando Póo, evangelización y el poder del gobernador) (topics 1, 8, 9, 11, 13, 14, 15)
+Tropo 5: creación de saber sobre el colonizado (topics 5, 10, 12).
+Tropo 6: una colonización dubitativa, costosa y difícil (topics 1, 4, 6, 12). 
